@@ -6,3 +6,6 @@ National Spatial Datasets and associated metadata and progress report documents
 2) AA Ports of First Entry - A point feature dataset of Australia's Ports of Entry as listed on the Department of Home Affairs website: https://www.homeaffairs.gov.au/trav/ente/avia/maritime/ports-of-entry
 
 3) Bunnings Locations - The dataset was derived from publicly available information on Bunnings corporate website: "https://www.bunnings.com.au/stores"
+
+4) Coles Distribution Centres - The dataset was derived from publicly available information on Coles corporate website
+
